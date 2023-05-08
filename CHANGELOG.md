@@ -153,23 +153,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-[Unreleased]: https://github.com/giantswarm/k8sclient/compare/v7.0.1...HEAD
-[7.0.1]: https://github.com/giantswarm/k8sclient/compare/v7.0.0...v7.0.1
-[7.0.0]: https://github.com/giantswarm/k8sclient/compare/v6.1.0...v7.0.0
-[6.1.0]: https://github.com/giantswarm/k8sclient/compare/v6.0.0...v6.1.0
-[6.0.0]: https://github.com/giantswarm/k8sclient/compare/v5.12.0...v6.0.0
-[5.12.0]: https://github.com/giantswarm/k8sclient/compare/v5.11.0...v5.12.0
-[5.11.0]: https://github.com/giantswarm/k8sclient/compare/v5.10.0...v5.11.0
-[5.10.0]: https://github.com/giantswarm/k8sclient/compare/v5.0.0...v5.10.0
-[5.0.0]: https://github.com/giantswarm/k8sclient/compare/v4.0.0...v5.0.0
-[4.0.0]: https://github.com/giantswarm/k8sclient/compare/v3.1.2...v4.0.0
-[3.1.2]: https://github.com/giantswarm/k8sclient/compare/v3.1.1...v3.1.2
-[3.1.1]: https://github.com/giantswarm/k8sclient/compare/v3.1.0...v3.1.1
-[3.1.0]: https://github.com/giantswarm/k8sclient/compare/v3.0.0...v3.1.0
-[3.0.0]: https://github.com/giantswarm/k8sclient/compare/v2.0.0...v3.0.0
-[2.0.0]: https://github.com/giantswarm/k8sclient/compare/v1.0.1...v2.0.0
-[1.0.1]: https://github.com/giantswarm/k8sclient/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/giantswarm/k8sclient/compare/v0.2.0...v1.0.0
-[0.2.0]: https://github.com/giantswarm/k8sclient/compare/v0.1.0...v0.2.0
+[Unreleased]: https://github.com/LeXFReeMan/k8sclient/compare/v7.0.1...HEAD
+[7.0.1]: https://github.com/LeXFReeMan/k8sclient/compare/v7.0.0...v7.0.1
+[7.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v6.1.0...v7.0.0
+[6.1.0]: https://github.com/LeXFReeMan/k8sclient/compare/v6.0.0...v6.1.0
+[6.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v5.12.0...v6.0.0
+[5.12.0]: https://github.com/LeXFReeMan/k8sclient/compare/v5.11.0...v5.12.0
+[5.11.0]: https://github.com/LeXFReeMan/k8sclient/compare/v5.10.0...v5.11.0
+[5.10.0]: https://github.com/LeXFReeMan/k8sclient/compare/v5.0.0...v5.10.0
+[5.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v4.0.0...v5.0.0
+[4.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v3.1.2...v4.0.0
+[3.1.2]: https://github.com/LeXFReeMan/k8sclient/compare/v3.1.1...v3.1.2
+[3.1.1]: https://github.com/LeXFReeMan/k8sclient/compare/v3.1.0...v3.1.1
+[3.1.0]: https://github.com/LeXFReeMan/k8sclient/compare/v3.0.0...v3.1.0
+[3.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v2.0.0...v3.0.0
+[2.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v1.0.1...v2.0.0
+[1.0.1]: https://github.com/LeXFReeMan/k8sclient/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/LeXFReeMan/k8sclient/compare/v0.2.0...v1.0.0
+[0.2.0]: https://github.com/LeXFReeMan/k8sclient/compare/v0.1.0...v0.2.0
 
-[0.1.0]: https://github.com/giantswarm/k8sclient/releases/tag/v0.1.0
+[0.1.0]: https://github.com/LeXFReeMan/k8sclient/releases/tag/v0.1.0

@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/giantswarm/k8sclient.svg?&style=shield)](https://circleci.com/gh/giantswarm/k8sclient)
+[![CircleCI](https://circleci.com/gh/LeXFReeMan/k8sclient.svg?&style=shield)](https://circleci.com/gh/LeXFReeMan/k8sclient)
 
 # k8sclient
 
